@@ -17,7 +17,7 @@ MAIL_FROM=your_email@gmail.com
 
 docker-compose up --build
 
-⚙️ Technologies Used:-
+'⚙️ Technologies Used:-'
 
 🐍 Python 3.10
 
@@ -29,7 +29,7 @@ docker-compose up --build
 
 🌐 HTML (Simple UI)
 
-🧪 Features Implemented:-
+'🧪 Features Implemented:-'
 
 Dockerized setup with FastAPI backend and PostgreSQL DB
 
@@ -39,7 +39,7 @@ Complaint Lookup API
 
 Simple frontend HTML to test complaint by ID
 
-📦 Key Files:-
+'📦 Key Files:-'
 
 Dockerfile: Python base container setup for FastAPI
 
@@ -49,6 +49,6 @@ docker-compose.yml: Runs FastAPI and PostgreSQL
 
 front.html: UI for entering complaint ID
 
-Video Walkthrough:-
+'Video Walkthrough:-'
 
 📽️ Project Demo: https://drive.google.com/drive/folders/1PD6rrQ-m2RVQ5CB2GcA64MfhBTNrR80p?usp=sharing
