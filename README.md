@@ -1,21 +1,8 @@
 # Django-Project
 
-# 🚆 RailSathiBE – Dockerized Django + FastAPI Microservice
+# 🚆 RailSathi Complaint Lookup (Django + Docker + PostgreSQL):
 
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/railsathibe-dockerized.git
-   cd RailSathiBE
-POSTGRES_USER=myuser
-POSTGRES_PASSWORD=mypassword
-POSTGRES_DB=mydb
-MAIL_USERNAME=your_email@gmail.com
-MAIL_PASSWORD=your_password
-MAIL_FROM=your_email@gmail.com
-
-docker-compose up --build
+This project is a containerized Django-based microservice that allows users to fetch railway complaint details by ID. It uses a PostgreSQL database for storing complaint and train data. The backend is served via FastAPI, while a simple HTML frontend provides user interaction. The entire setup runs smoothly using Docker Compose for easy development and deployment.
 
 # ⚙️ Technologies Used:-
 
